@@ -15,7 +15,7 @@ Confidence scores for positive and negative sentiment.
 Installation:
 
 Prerequisites:
-Python 3.6 or later (check with python --version)
+Python 3.6 or later (check with python --version).I have used python 3.7.So you can use this version which would be easier.
 Streamlit (install with pip install streamlit)
 Sentiment analysis model (see "Model Selection" below for options)
 Clone the repository:
